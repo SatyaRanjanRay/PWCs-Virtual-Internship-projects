@@ -6,6 +6,7 @@ Dashboards on Call Centre Trends 🤵🏻📞, Customer Churn Analysis 🏦👔 
 The First task was to do dashboard development on Call Centre trends that reflects all necessary KPIs and metrics which would give them transparency and insights to it.
 
 Main KPIs include:
+
 ✅Overall customer satisfaction 
 
 ✅Overall calls answered/unanswered 
