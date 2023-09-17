@@ -57,6 +57,8 @@ Main KPIs includes:
 
 📌 Customers who have a month-to-month contract are more likely to leave the service, with a churn rate of 42.71%. Customers who have a one-year or a two-year contract are less likely to leave, with churn rates of 11.71% and 2.83%, respectively.
 
+## Diversity & Inclusion Analysis Dashboard
+
 📌 Customers who use fiber optic internet service tend to leave the service more than customers who use DSL internet service. Additionally, customers who do not have streaming and additional services are more likely to churn.
 
 You can explore the interactive dashboard and discover more insights 🔝
