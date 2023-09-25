@@ -73,12 +73,32 @@ https://www.novypro.com/project/pwc-diversity--inclusion-analysis
 
 ⚡ Quick Insights :
 
+📍 Hiring
+
 📌 The number of male hires is higher than that of female hires.
 
 📌 Gender representation in the operations department is currently balanced, with an equal number of men and women. However, there is a need for improvement in gender representation across the remaining departments, with a focus on increasing the presence of women. In contrast, the HR department should work towards enhancing the representation of men within its workforce.
 
 📌 Except for Junior Officers, Women are underrepresented in all other job levels. There is a need to work on increasing gender diversity and getting more women into these higher-level positions.
 
+📍 Promotions
+
 📌 In 2021, there was a higher number of promotions for female employees compared to 2020.
+
+📌 The majority of women were promoted to senior officer positions in 2021
+
+📍 Turnover
+
+📌 The turnover rate for males is higher than that for females.
+
+📌 The finance department has the highest turnover rate, while the HR department has the lowest turnover rate.
+
+📌 The turnover rate is highest for the senior officer job level and lowest for the executive job level.
+
+⚡ Areas of Improvements:
+
+The dashboard also allows us to track hiring trends over time. For example, the dashboard shows that the percentage of female hires has increased in recent years which is a positive trend but it is important to continue to monitor hiring data to ensure that the program is attracting and retaining a diverse workforce.
+
+You can explore the interactive dashboard and discover more insights 🔝
 
 
