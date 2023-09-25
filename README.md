@@ -57,8 +57,28 @@ Main KPIs includes:
 
 📌 Customers who have a month-to-month contract are more likely to leave the service, with a churn rate of 42.71%. Customers who have a one-year or a two-year contract are less likely to leave, with churn rates of 11.71% and 2.83%, respectively.
 
-## Diversity & Inclusion Analysis Dashboard
-
 📌 Customers who use fiber optic internet service tend to leave the service more than customers who use DSL internet service. Additionally, customers who do not have streaming and additional services are more likely to churn.
 
 You can explore the interactive dashboard and discover more insights 🔝
+
+## Diversity & Inclusion Analysis Dashboard
+
+As part of my final task at PwC’s virtual case experience program, I completed a Power BI project on Diversity and Inclusion. 
+
+The dashboard was created to assist the hiring team in evaluating the organization’s progress in terms of diversity and inclusion. It presents key performance indicators (KPIs) related to hiring, promotions and turnovers.
+
+Interactive Dashboard:
+
+https://www.novypro.com/project/pwc-diversity--inclusion-analysis
+
+⚡ Quick Insights :
+
+📌 The number of male hires is higher than that of female hires.
+
+📌 Gender representation in the operations department is currently balanced, with an equal number of men and women. However, there is a need for improvement in gender representation across the remaining departments, with a focus on increasing the presence of women. In contrast, the HR department should work towards enhancing the representation of men within its workforce.
+
+📌 Except for Junior Officers, Women are underrepresented in all other job levels. There is a need to work on increasing gender diversity and getting more women into these higher-level positions.
+
+📌 In 2021, there was a higher number of promotions for female employees compared to 2020.
+
+
